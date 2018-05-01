@@ -1,5 +1,5 @@
 import scr.DecisionTree as dt
-import InputData as D
+import InputDataSA1 as D
 
 # dictionary for decision nodes
 #               // key: cost, utility, [future nodes]

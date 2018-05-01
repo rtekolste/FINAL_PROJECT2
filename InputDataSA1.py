@@ -2,7 +2,7 @@
 BP_P = .591
 MGSO4_P = .2
 MD_P= .31
-HTN_P = .1
+HTN_P = .18
 UA_P = .223
 PE_P = .34
 RR =.5
