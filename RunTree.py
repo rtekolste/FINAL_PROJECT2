@@ -12,3 +12,5 @@ print(myDT.get_terminal_prob())
 
 # plot the expected cost and utility of each alternative
 tree.dt.graph_outcomes(myDT)
+
+

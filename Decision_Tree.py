@@ -36,7 +36,7 @@ dictChances = { 'baseline':     [0,     0,          ['BP', 'NoBP'],             
                 #NO BP Branch
                 'Tr_NoBP':      [0,     0,          ['Tr_NoBP_HTN', 'Tr_T_NoBP_No_HTN'],     [D.HTN_P, (1-D.HTN_P)]],
                 'Tr_NoBP_HTN':  [0,     0,          ['Tr_T_NoBP_HTN', 'Tr_NoBP_PE'],         [D.PE_P, (1-D.PE_P)]],
-                'Tr_NoBP_PE':   [0,     0,          ['Tr_T_NoBP_E', 'Tr_T_NoBP_PE'],        [D.E_P, (1-D.E_P)]],
+                'Tr_NoBP_PE':   [0,     0,          ['Tr_T_NoBP_E', 'Tr_T_NoBP_PE'],         [D.E_P, (1-D.E_P)]],
 
                 #BP No MD Branch
                 'Tr_BP':            [0,     0,          ['Tr_BP_HTN', 'Tr_T_BP_No_HTN'],          [D.HTN_P, (1-D.HTN_P)]],
